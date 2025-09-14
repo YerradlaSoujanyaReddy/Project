@@ -5,7 +5,6 @@ import tkinter as tk
 from tkinter import ttk, scrolledtext
 import threading
 import time
-import json
 from datetime import datetime
 import speech_recognition as sr
 import pyttsx3
